@@ -1,0 +1,51 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: Raleway;
+}
+.sidebar{
+  background-color: #5f5f9f;
+  height: 100vh;
+}
+
+.dashboard{
+  background-color: #24243b;
+  height: 100vh;
+}
+
+.btn-places{
+  background-color: #b4b4bc;
+  border: none;
+  box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.5);
+  color: white;
+}
+
+.wheatherGraphic{
+  height: 20vh;
+  background-image: url('../img/Cloud-background.png');
+  background-size: 100%;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
+.font150{
+  font-weight: 500;
+  font-size: 150px;
+  color: #d6d6dd;
+}
+
+.font50{
+  font-size: 50px;
+  color: rgb(160, 159, 159);
+}
+
+.font25{
+  font-size: 25px;
+  color: rgb(160, 159, 159);
+}
+
+.geoIcon{
+  font-size: 1.6rem;
+  color: rgb(160, 159, 159);
+}
+
